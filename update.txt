@@ -1,0 +1,8 @@
+1.0.1
+https://impulsivemind.servegame.com:54886/valheim-reloaded.exe
+
+
+[Update]
+Version=1.0.1
+URL=https://impulsivemind.servegame.com:54886/valheim-reloaded.exe
+
