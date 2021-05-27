@@ -4,7 +4,8 @@ Valheim Reloaded is a modded 90 Player MMORPG server focused on player interacti
 
 The server have been modded with over 70 mods to create this experience and have carefully been tested and configureated to offer a one of a kind experience as a alternative to Valheim Vanilla. 
 
-##What the server offers:
+## What the server offers:
+
 MMO experience with RPG elements.
 New gear with new types of stats to improve your character.
 A player based economy system with integrated trading system.
