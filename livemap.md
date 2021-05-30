@@ -2,8 +2,8 @@
 
 Here you can see the live maps of all our servers
 
-### Thrymheim
 
-### Jotunheim
+[Thrymheim](http://valheimreloaded.servegame.com:3000)
 
-### Nastrond
+[Jotunheim](http://valheimreloaded.servegame.com:3001)
+
